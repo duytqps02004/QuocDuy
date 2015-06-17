@@ -1,0 +1,38 @@
+C:\Users\PC01\Desktop\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.exe.config
+C:\Users\PC01\Desktop\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+C:\Users\PC01\Desktop\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+C:\Users\PC01\Desktop\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.xml
+C:\Users\PC01\Desktop\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.Resources.resources
+C:\Users\PC01\Desktop\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.vbproj.GenerateResource.Cache
+C:\Users\PC01\Desktop\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.exe
+C:\Users\PC01\Desktop\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.xml
+C:\Users\PC01\Desktop\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.pdb
+C:\Users\PC01\Desktop\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.frmlogin.resources
+C:\Users\PC01\Desktop\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.frmmain.resources
+D:\Downloads\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.exe.config
+D:\Downloads\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.exe
+D:\Downloads\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.xml
+D:\Downloads\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.pdb
+D:\Downloads\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+D:\Downloads\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+D:\Downloads\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.xml
+D:\Downloads\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.formquanlynhanvien.resources
+D:\Downloads\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.frmlogin.resources
+D:\Downloads\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.frmmain.resources
+D:\Downloads\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.Resources.resources
+D:\Downloads\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.vbproj.GenerateResource.Cache
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.exe.config
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.exe
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.xml
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.pdb
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\bin\Debug\FormLogin.xml
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.frmlogin.resources
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.frmmain.resources
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.Resources.resources
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.vbproj.GenerateResource.Cache
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.frmquanlihoadon.resources
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.frmquanlikhachhang.resources
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.frmquanlisanpham.resources
+D:\Dien Toan Dam May\duytqps02004\FormLogin\FormLogin\obj\Debug\FormLogin.frmquanlynhanvien.resources
